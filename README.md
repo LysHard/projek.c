@@ -1,0 +1,2 @@
+# projek.c
+nauka c
